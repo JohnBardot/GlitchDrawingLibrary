@@ -258,7 +258,7 @@ local Library = {}
                                  Button_1.Position = UDim2.new(0.5, 0,0.45714286, 0) 
                                  Button_1.Size = UDim2.new(0, 205,0, 20) 
                                  Button_1.Font = Enum.Font.Sarpanch 
-                                 Button_1.Text = "Button" 
+                                 Button_1.Text = ButName
                                  Button_1.TextColor3 = Color3.fromRGB(255,255,255) 
                                  Button_1.TextSize = 14 
   
